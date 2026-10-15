@@ -1,0 +1,8 @@
+com.sena.first_project.app-pngs-0 C:\Users\Sena\AndroidStudioProjects\first_project\app\build\generated\res\pngs\debug
+com.sena.first_project.app-updated_navigation_xml-1 C:\Users\Sena\AndroidStudioProjects\first_project\app\build\generated\updated_navigation_xml\debug
+com.sena.first_project.app-packageDebugResources-2 C:\Users\Sena\AndroidStudioProjects\first_project\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.sena.first_project.app-packageDebugResources-3 C:\Users\Sena\AndroidStudioProjects\first_project\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.sena.first_project.app-debug-4 C:\Users\Sena\AndroidStudioProjects\first_project\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.sena.first_project.app-debug-5 C:\Users\Sena\AndroidStudioProjects\first_project\app\src\debug\res
+com.sena.first_project.app-main-6 C:\Users\Sena\AndroidStudioProjects\first_project\app\src\main\res
+gradleHome-0 C:\Users\Sena\.gradle
